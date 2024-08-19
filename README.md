@@ -1,6 +1,1 @@
-Hi
-This
-is
-a
-test
-only.
+Hey this is project about Java 8 Lambda Expression.
